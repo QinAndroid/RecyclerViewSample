@@ -13,10 +13,6 @@
         android:layout_height="45dp"
         android:text="GridLayoutManager"
         android:id="@+id/GridLayoutManager"/>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="45dp"
-        android:text="StaggeredGridLayoutManager"
-        android:id="@+id/StaggeredGridLayoutManager"/>
+
 
 </LinearLayout>

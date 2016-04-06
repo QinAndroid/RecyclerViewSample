@@ -13,6 +13,9 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".layoutmanager.view.RecyclerViewActivity"/>
+        <activity android:name=".gridlayoutmanager.view.GridLayoutRecyclerViewActivity"/>
+        <activity android:name=".straggeredgridlayoutmanager.view.StraggeredLayoutRecyclerViewActivity"/>
 
     </application>
 
